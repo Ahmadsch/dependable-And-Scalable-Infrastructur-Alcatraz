@@ -72,7 +72,7 @@ version=4.0.0
 
 ---
 
-# 3.2 Start Spread Daemon
+## 3.2 Start Spread Daemon
 
 Spread must run before any node starts.
 
@@ -120,7 +120,7 @@ This launches:
 Every node joins the same Spread group (`alcatrazGroup`).
 
 ---
-# 3.4 Swagger UI
+## 3.4 Swagger UI
 
 After starting any node:
 
